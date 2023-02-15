@@ -1,11 +1,11 @@
 {
-  "name": "Filmoteka,
+  "name": "Filmoteka",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Karamanova.github.io/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /FilmotekaProject/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
